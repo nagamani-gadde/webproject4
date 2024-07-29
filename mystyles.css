@@ -1,0 +1,46 @@
+h1{
+    background-color: rgb(192, 209, 255);
+}
+nav{
+    background-color: #e1d7fa;
+    color: rgb(10, 191, 223);
+    padding: 15px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+    text-align: center;        
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+section{
+    padding: 20px;
+}
+footer{
+    background-color: #de282860;
+    color: #fff;
+    text-align:center;
+    margin-top: 310;
+    padding: 5px 0;
+}
+h2{
+    background-color: rgb(235, 136, 7);
+    margin-bottom:0;
+}
+h3{
+    background-color: lightsalmon;
+}
+body{
+    background-image: url(education2.jpg);
+    background-position: center;
+    background-size: cover;
+}
